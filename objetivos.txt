@@ -1,0 +1,5 @@
+1- Aprender a realizar un proyecto desde los cimientos 
+
+2- Desarrollar un buen back-end
+
+3- Aprender Astro 
